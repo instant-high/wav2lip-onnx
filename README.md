@@ -10,7 +10,7 @@ Just same functions as the original repo: https://github.com/Rudrabha/Wav2Lip
 (Modified)Face detection is taken from
 https://github.com/neuralchen/SimSwap
 
-For installation and inference please read Setup.txt
+Clone this repository and please read Setup.txt
 
 Converted models can be downloaded here:https://drive.google.com/file/d/1_l4QC2RJ9nXapSQRD61-Q4KbSApc53HM/view?usp=sharing
 Unzip to checkpoints folder
