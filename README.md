@@ -11,3 +11,6 @@ Modified face detection is taken from
 https://github.com/neuralchen/SimSwap
 
 For installation please read Setup.txt
+
+Converted models can be downloaded here:
+Unzip to checkpoints folder
