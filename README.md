@@ -9,4 +9,4 @@ Just same as the original repo: https://github.com/Rudrabha/Wav2Lip
 
 Modified face detection is taken from: https://github.com/neuralchen/SimSwap
 
-For installation read Setup.txt
+For installation please read Setup.txt
