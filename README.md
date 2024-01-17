@@ -1,6 +1,6 @@
 # wav2lip-onnx (inference only)
 This is my modified wav2lip version.
-Inference is quite fast on CPU using the converted wav2lip onnx models face detection.
+Inference is quite fast on CPU using the converted wav2lip onnx models antelope face detection.
 
 (Running on GPU possible but some code changes needed)
 
