@@ -1,0 +1,7 @@
+opencv-python==4.8.0.76
+numpy
+tqdm
+librosa
+numba
+insightface==0.2.1
+onnxruntime
