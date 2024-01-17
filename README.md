@@ -24,4 +24,4 @@ https://drive.google.com/file/d/1_l4QC2RJ9nXapSQRD61-Q4KbSApc53HM/view?usp=shari
 
 Unzip to checkpoints folder
 
-If you want to convert the wav2lip checkpoints (folder convert2onnx) you have to run the script makeonnx.py in the root of an original wav2lip installation.
+If you want to convert the wav2lip checkpoints yourself (folder convert2onnx/makeonnx.py) you have to run the script in the root of an original wav2lip installation.
