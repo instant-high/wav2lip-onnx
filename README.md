@@ -5,7 +5,7 @@ No torch required.
 
 Inference is quite fast running on CPU using the converted wav2lip onnx models and antelope face detection.
 
-(Running on GPU possible but some changes needed)
+(Running on GPU possible but some changes required)
 
 No additional functions like face enhancement, face alignment.
 Just same functions as the original repo: https://github.com/Rudrabha/Wav2Lip
