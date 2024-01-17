@@ -13,5 +13,6 @@ https://github.com/neuralchen/SimSwap
 Clone this repository and please read Setup.txt
 
 Converted models can be downloaded here: 
-https://drive.google.com/file/d/1_l4QC2RJ9nXapSQRD61-Q4KbSApc53HM/view?usp=sharing
+https://drive.google.com/file/d/1_l4QC2RJ9nXapSQRD61-Q4KbSApc53HM/view?usp=sharing.
+
 Unzip to checkpoints folder
