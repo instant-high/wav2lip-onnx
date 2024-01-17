@@ -6,6 +6,7 @@ Inference is quite fast on CPU using the converted wav2lip onnx models face dete
 
 No additional modifications like face enhancement, face alignment.
 Just same as the original repo: https://github.com/Rudrabha/Wav2Lip
+
 Modified face detection is taken from: https://github.com/neuralchen/SimSwap
 
 For installation read Setup.txt
