@@ -10,9 +10,12 @@ Just same functions as the original repo: https://github.com/Rudrabha/Wav2Lip
 (Modified)Face detection is taken from
 https://github.com/neuralchen/SimSwap
 
-Clone this repository and please read Setup.txt
+Installatio:
+Clone this repository and read Setup.txt
 
-Converted models can be downloaded here: 
+Face detection checkpoint already in insightface_func/models/antelope
+
+Converted wav2lip/wav2lip_gan  checkpoints can be downloaded here: 
 https://drive.google.com/file/d/1_l4QC2RJ9nXapSQRD61-Q4KbSApc53HM/view?usp=sharing.
 
 Unzip to checkpoints folder
