@@ -7,7 +7,7 @@ Inference is quite fast running on CPU using the converted wav2lip onnx models a
 
 (Running on GPU possible but some changes needed)
 
-No additional modifications like face enhancement, face alignment.
+No additional functions like face enhancement, face alignment.
 Just same functions as the original repo: https://github.com/Rudrabha/Wav2Lip
 
 (Modified)Face detection is taken from
