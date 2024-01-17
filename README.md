@@ -1,6 +1,8 @@
-# wav2lip-onnx (inference only)
+# wav2lip-onnx
 This is my modified minimum wav2lip version.
+
 No torch required.
+
 Inference is quite fast running on CPU using the converted wav2lip onnx models and antelope face detection.
 
 (Running on GPU possible but some changes needed)
