@@ -26,3 +26,7 @@ If you want to convert the wav2lip checkpoints yourself (folder convert2onnx/mak
 Original wav2lip - https://github.com/Rudrabha/Wav2Lip
 
 SimSwap - https://github.com/neuralchen/SimSwap
+
+
+Some of my older, not yet public, projects you can find here:
+https://www.youtube.com/playlist?list=PLvwlV1S1SYHBjPjwY49KF5d-z59a32v8C
