@@ -8,11 +8,9 @@ Inference is quite fast running on CPU using the converted wav2lip onnx models a
 (Running on GPU possible but some changes required)
 
 No additional functions like face enhancement, face alignment.
-Just same functions as the original repo: https://github.com/Rudrabha/Wav2Lip
+Just same functions as the original repository
 
-(Modified)Face detection is taken from
-https://github.com/neuralchen/SimSwap
-
+(Modified)Face detection is taken from simswap
 
 Installation:
 Clone this repository and read Setup.txt
@@ -25,3 +23,7 @@ https://drive.google.com/file/d/1_l4QC2RJ9nXapSQRD61-Q4KbSApc53HM/view?usp=shari
 Unzip to checkpoints folder
 
 If you want to convert the wav2lip checkpoints yourself (folder convert2onnx/makeonnx.py) you have to run the script in the root of an original wav2lip installation.
+
+Original wav2lip - https://github.com/Rudrabha/Wav2Lip
+
+SimSwap - https://github.com/neuralchen/SimSwap
