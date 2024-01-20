@@ -14,6 +14,10 @@ Just same functions as the original repository
 Installation:
 Clone this repository and read Setup.txt
 
+Don't forget to install ffmpeg and set path variable.
+
+
+
 Face detection checkpoint already in insightface_func/models/antelope
 
 Converted wav2lip / wav2lip_gan checkpoints can be downloaded here: 
