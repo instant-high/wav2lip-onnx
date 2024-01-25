@@ -5,6 +5,7 @@ No torch required.
 
 Inference is quite fast running on CPU using the converted wav2lip onnx models and antelope face detection.
 Can be run on Nvidia GPU, tested on RTX3060
+Update: tested on GTX1050
 
 No additional functions like face enhancement, face alignment.
 Just same functions as the original repository
