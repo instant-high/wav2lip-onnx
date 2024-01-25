@@ -15,7 +15,7 @@ pip install opencv-python
 if you get some "onnx 1.9 providers" error:
 
 Edit this file:
-e.g. File "C:\Users\.conda\envs\simswap\lib\site-packages\insightface\model_zoo\model_zoo.py"
+e.g. File "C:\Users\.conda\envs\ENVname\lib\site-packages\insightface\model_zoo\model_zoo.py"
 line 23, in get_model
 
 change:
